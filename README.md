@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Adil-Farooq-Awan
+- 👀 I’m interested in development...
+- 🌱 I’m currently working on webdevelopment...
+- 📫 How to reach me | you may reach me through adilfarooawaan@gmail.com ...
+
+<!---
+Adil-Farooq-Awan/Adil-Farooq-Awan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
